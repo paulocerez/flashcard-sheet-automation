@@ -6,3 +6,4 @@ Flashcards provide an effective way to memorise stuff using active recall and sp
 - AnkiConnect (external Anki API)
 - Excel Sheet for storing flashcard data - see template here: <link>
 - crontab for scheduling the automatic upload (macOS system)
+- Vue for the User Interface
